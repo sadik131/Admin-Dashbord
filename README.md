@@ -12,8 +12,8 @@ Side:
 
 This is a simple website created using HTML and CSS. Follow the instructions below to clone, install, and run the project.
 
- 1. clone the repository from a terminal `git@github.com:sadik131/admin-dashbord.git`
- 2. naviage to the project directory  `admin-dashbord`
+ 1. clone the repository from a terminal `git@github.com:sadik131/admin-Dashbord.git`
+ 2. naviage to the project directory  `admin-Dashbord`
  3. install npm `npm i`
  4. start project `npm run dev`
 ## Technologies Used  
