@@ -1,6 +1,6 @@
 import { Bar, BarChart, CartesianGrid, Cell, Legend, Rectangle, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts'
 import ChartLayout from '../share/ChartLayout'
-import { productPerformanceData } from '../../const'
+import { COLORS, productPerformanceData } from '../../const'
 
 function SalesChannelChart() {
   return (
